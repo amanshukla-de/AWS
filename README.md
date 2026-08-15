@@ -50,7 +50,7 @@ A comprehensive collection of AWS service documentation and study notes — basi
 | Service        | Description                                          | Link |
 |----------------|------------------------------------------------------|------|
 | **Glue**       | ETL service — data catalog, crawlers, jobs, schema discovery, data transformation | [Readme](./Glue/Readme.md) · [boto3 Python](./Glue/glue_operations.py) |
-| **Redshift**   | Petabyte-scale data warehouse, columnar storage, distributed queries, BI integration | [Readme](./Redshift/README.md) · [boto3 Python](./Redshift/redshift_operations.py) |
+| **Redshift**   | Petabyte-scale data warehouse, columnar storage, distributed queries, BI integration | [Readme](./Redshift/README.md) |
 | **Athena**     | Serverless SQL query engine on S3 data               | [Readme](./Athena/Readme.md) |
 
 ### CI/CD
